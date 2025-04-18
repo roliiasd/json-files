@@ -1,36 +1,36 @@
 {
   "alapmunkak": [
     {
-    "nev": "Akriltömítés max. 2 mm-ig",
-    "leiras": "Falak negatív sarkainál a repedések, ajtó és ablak tokok fallal való találkozásai pontjainak kitöltése festhető akriltömítővel.",
-    "munkadij": 220,
-    "anyagdij": 110
-  },
-  {
+      "nev": "Akriltömítés max. 2 mm-ig",
+      "leiras": "Falak negatív sarkainál a repedések, ajtó és ablak tokok fallal való találkozásai pontjainak kitöltése festhető akriltömítővel.",
+      "munkadij": 220,
+      "anyagdij": 110
+    },
+    {
       "nev": "Alumínium élvédő felhelyezése\ngörbe, nem függő élekre",
       "leiras": "Nem függő, görbe pozitív élek kiegyenesítése alumínium élvédővel.",
       "munkadij": 2000,
       "anyagdij": 700
-  },
-  {
+    },
+    {
       "nev": "Diletáció, repedések javítása\n3 mm szélességig",
       "leiras": "A falak dilatációs repedéseinek hatékony javításához megfelelő szélességű dilatációs szalagot és rugalmas kitöltőanyagot használunk.",
       "munkadij": 300,
       "anyagdij": 100
-  },
-  {
+    },
+    {
       "nev": "Falfelület mélyalapozása\n(impregnálás)",
       "leiras": "A falfelület mélyalapozása javítja a glett és a festék tapadását, elősegítve a tartós bevonat kialakítását.",
       "munkadij": 500,
       "anyagdij": 200
-  },
-  {
+    },
+    {
       "nev": "Falkaparás\n(Régi, laza bevonat eltávolítása 3rtg-ig)",
       "leiras": "A falkaparás a régi, laza bevonat eltávolítását jelenti a falakról. Ez a lépés előkészíti a felületet a további munkálatokhoz, mint mélyalapozás és glettelés.",
       "munkadij": 1900,
       "anyagdij": 0
-  },
-  {
+    },
+    {
       "nev": "Felület erősítő üvegfátyol\nragasztása",
       "leiras": "Az üvegfátyol gyakran alkalmazzuk sűrűn repedezett falak és mennyezetek megerősítésére. Az üvegszálas szerkezet segít átfedni és stabilizálni a repedéseket, hozzájárulva a falak és mennyezetek erősségének és tartósságának növeléséhez.",
       "munkadij": 1850,
@@ -143,6 +143,6 @@
       "leiras": "Az optikailag zavaró kötödoboz fedeleket eltávolítjuk, és a helyükre 100x100 mm-es gipszkarton javító lapokat helyezünk el, majd ezeket síkba gletteljük.",
       "munkadij": 500,
       "anyagdij": 800
-  }
-]
+    }
+  ]
 }
