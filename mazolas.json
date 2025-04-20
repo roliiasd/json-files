@@ -1,7 +1,7 @@
 [
   {
     "nev": "Új fa nyílászáró mázolása vizes bázisú bevonatrendszerrel, nagyobb felületi hibák tapaszolásával",
-    "leiras": "Ez a szolgáltatás a fa nyílászárók felújítását és tisztítását is magában foglalja a felületi hibák kijavításával együtt.",
+    "leiras": "Ez a szolgáltatás a fa nyílászárók felújítását és\n tisztítását is magában foglalja a felületi hibák kijavításával együtt.",
     "munkadij": 9900,
     "anyagdij": 3250
   },
@@ -13,7 +13,7 @@
   },
   {
     "nev": "Új fa nyílászáró mázolása oldószeres bevonatrendszerrel, nagyobb felületi hibák tapaszolásával",
-    "leiras": "Ez a szolgáltatás a fa nyílászárók felújítását és tisztítását is magában foglalja a felületi hibák kijavításával együtt, oldószeres festékkel.",
+    "leiras": "Ez a szolgáltatás a fa nyílászárók felújítását és\n tisztítását is magában foglalja a felületi hibák kijavításával együtt, oldószeres festékkel.",
     "munkadij": 9900,
     "anyagdij": 3000
   },
@@ -31,25 +31,25 @@
   },
   {
     "nev": "Széldeszka, oromdeszka mázolása 2 rétegben, 3m magasságig",
-    "leiras": "Ezen szolgáltatás keretében a széldeszkák és oromdeszkák festése történik, két rétegben, 3 méteres magasságig.",
+    "leiras": "Ezen szolgáltatás keretében a széldeszkák és\n oromdeszkák festése történik, két rétegben, 3 méteres magasságig.",
     "munkadij": 6500,
     "anyagdij": 0
   },
   {
     "nev": "Széldeszka, oromdeszka mázolása 2 rétegben, 3m - 7m magasság között",
-    "leiras": "A festés ezen változata a magasabb széldeszkák és oromdeszkák festését tartalmazza, 3 és 7 méter közötti magasságig.",
+    "leiras": "A festés ezen változata a magasabb széldeszkák és\n oromdeszkák festését tartalmazza, 3 és 7 méter közötti magasságig.",
     "munkadij": 7500,
     "anyagdij": 0
   },
   {
     "nev": "Széldeszka, oromdeszka lazúrozása 2 rétegben 3m magasságig",
-    "leiras": "Lazúros festék használata a széldeszkák és oromdeszkák felületén, két rétegben, 3 méteres magasságig.",
+    "leiras": "Lazúros festék használata a széldeszkák és\n oromdeszkák felületén, két rétegben, 3 méteres magasságig.",
     "munkadij": 5500,
     "anyagdij": 0
   },
   {
     "nev": "Széldeszka, oromdeszka lazúrozása 2 rétegben, 3m - 7m magasság között",
-    "leiras": "Lazúros festék használata a magasabb széldeszkák és oromdeszkák felületén, két rétegben, 3 és 7 méter közötti magasságban.",
+    "leiras": "Lazúros festék használata a magasabb széldeszkák és\n oromdeszkák felületén, két rétegben, 3 és 7 méter közötti magasságban.",
     "munkadij": 6500,
     "anyagdij": 0
   },
