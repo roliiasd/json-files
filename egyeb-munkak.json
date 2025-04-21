@@ -25,7 +25,7 @@
   },
   {
     "nev": "Homlokzat tisztítás, mosás",
-    "leiras": "Ezek az árak 100m2 felett érvényesek.",
+    "leiras": "<strong>Ezek az árak 100m2 felett érvényesek.</strong>",
     "munkadij": 1150,
     "anyagdij": 150
   },
