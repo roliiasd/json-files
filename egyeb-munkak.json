@@ -25,15 +25,15 @@
   },
   {
     "nev": "Homlokzat tisztítás, mosás",
-    "leiras": "",
-    "munkadij": 1350,
-    "anyagdij": 100
+    "leiras": "Ezek az árak 100m2 felett érvényesek.",
+    "munkadij": 1150,
+    "anyagdij": 150
   },
   {
     "nev": "Térkő tisztítás",
-    "leiras": "",
-    "munkadij": 1250,
-    "anyagdij": 100
+    "leiras": "Ezek az árak 100m2 felett érvényesek.",
+    "munkadij": 950,
+    "anyagdij": 150
   },
   {
     "nev": "Rozetták ragasztása, festése 40cm átmérőig",
