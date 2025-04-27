@@ -1,77 +1,90 @@
 [
   {
+    "id": "area39",
     "nev": "Új fa nyílászáró mázolása vizes bázisú bevonatrendszerrel, nagyobb felületi hibák tapaszolásával",
     "leiras": "Ez a szolgáltatás a fa nyílászárók felújítását és\n tisztítását is magában foglalja a felületi hibák kijavításával együtt.",
     "munkadij": 9900,
     "anyagdij": 3250
   },
   {
+    "id": "area40",
     "nev": "Régi fa nyílászáró mázolása Trinát vizes bázisú bevonatrendszerrel, nagyobb felületi hibák tapaszolásával",
     "leiras": "Régi fa nyílászárók felújítása vizes bázisú festékkel a felületi hibák kijavításával.",
     "munkadij": 9900,
     "anyagdij": 3000
   },
   {
+    "id": "area41",
     "nev": "Új fa nyílászáró mázolása oldószeres bevonatrendszerrel, nagyobb felületi hibák tapaszolásával",
     "leiras": "Ez a szolgáltatás a fa nyílászárók felújítását és\n tisztítását is magában foglalja a felületi hibák kijavításával együtt, oldószeres festékkel.",
     "munkadij": 9900,
     "anyagdij": 3000
   },
   {
+    "id": "area42",
     "nev": "Régi fa nyílászáró mázolása Trinát oldószeres bevonatrendszerrel, nagyobb felületi hibák tapaszolásával",
     "leiras": "Régi fa nyílászárók felújítása oldószeres festékkel a felületi hibák kijavításával.",
     "munkadij": 9900,
     "anyagdij": 2750
   },
   {
+    "id": "area43",
     "nev": "Nyílászárók égetése",
     "leiras": "Ez a szolgáltatás magában foglalja a nyílászárók égetését, amely során a festék eltávolítása történik.",
     "munkadij": 10000,
     "anyagdij": 500
   },
   {
+    "id": "area44",
     "nev": "Széldeszka, oromdeszka mázolása 2 rétegben, 3m magasságig",
     "leiras": "Ezen szolgáltatás keretében a széldeszkák és\n oromdeszkák festése történik, két rétegben, 3 méteres magasságig.",
     "munkadij": 6500,
     "anyagdij": 0
   },
   {
+    "id": "area45",
     "nev": "Széldeszka, oromdeszka mázolása 2 rétegben, 3m - 7m magasság között",
     "leiras": "A festés ezen változata a magasabb széldeszkák és\n oromdeszkák festését tartalmazza, 3 és 7 méter közötti magasságig.",
     "munkadij": 7500,
     "anyagdij": 0
   },
   {
+    "id": "area46",
     "nev": "Széldeszka, oromdeszka lazúrozása 2 rétegben 3m magasságig",
     "leiras": "Lazúros festék használata a széldeszkák és\n oromdeszkák felületén, két rétegben, 3 méteres magasságig.",
     "munkadij": 5500,
     "anyagdij": 0
   },
   {
+    "id": "area47",
     "nev": "Széldeszka, oromdeszka lazúrozása 2 rétegben, 3m - 7m magasság között",
     "leiras": "Lazúros festék használata a magasabb széldeszkák és\n oromdeszkák felületén, két rétegben, 3 és 7 méter közötti magasságban.",
     "munkadij": 6500,
     "anyagdij": 0
   },
   {
+    "id": "area48",
     "nev": "Mázolás fém felületen (radiátor, rács stb.)",
     "leiras": "Fémfelületek festése, mint radiátorok vagy rácsok, speciális festékkel történik.",
     "munkadij": 7500,
     "anyagdij": 2000
   },
   {
+    "id": "area49",
     "nev": "Cső mázolás: (Na80-ig)",
     "leiras": "Csövek festése méretük alapján, Ft/m árakkal.",
     "munkadij": 850,
     "anyagdij": 250
   },
   {
+    "id": "area50",
     "nev": "Kerítésfestés, kerítés mázolás",
     "leiras": "Kerítések festése, felületük előkészítése és mázolása, az árak felület méretétől függnek.",
     "munkadij": 6500,
     "anyagdij": 0
   },
   {
+    "id": "area51",
     "nev": "Lazúrozás 1 rétegben",
     "leiras": "A lazúrozás egy átlátszó festékréteg, amely megőrzi a fa természetes kinézetét, miközben védi azt.",
     "munkadij": 3000,
