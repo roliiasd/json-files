@@ -3,91 +3,91 @@
     "id": "area64",
     "nev": "Polisztirol díszléc ragasztása (50mm-ig)",
     "leiras": "Ez a szolgáltatás polisztirol díszléc ragasztására vonatkozik, 50mm-es vastagságig.",
-    "munkadij": 1000,
-    "anyagdij": 250
+    "munkadij": 1100,
+    "anyagdij": 280
   },
   {
     "id": "area65",
     "nev": "Polisztirol díszléc ragasztása tetőtérben vagy tagolt felületeken (50mm-ig)",
     "leiras": "Ez a szolgáltatás polisztirol díszléc ragasztására vonatkozik tetőtérben vagy tagolt felületeken, 50mm-es vastagságig.",
-    "munkadij": 1200,
-    "anyagdij": 250
+    "munkadij": 1320,
+    "anyagdij": 280
   },
   {
     "id": "area66",
     "nev": "Polisztirol díszléc ragasztása (55mm-110mm-ig)",
     "leiras": "Ez a szolgáltatás polisztirol díszléc ragasztására vonatkozik, 55mm-110mm-es vastagságig.",
-    "munkadij": 1400,
-    "anyagdij": 300
+    "munkadij": 1540,
+    "anyagdij": 330
   },
   {
     "id": "area67",
     "nev": "Polisztirol díszléc ragasztása tetőtérben vagy tagolt felületeken (55mm-110mm-ig)",
     "leiras": "Ez a szolgáltatás polisztirol díszléc ragasztására vonatkozik tetőtérben vagy tagolt felületeken, 55mm-110mm-es vastagságig.",
-    "munkadij": 1600,
-    "anyagdij": 300
+    "munkadij": 1760,
+    "anyagdij": 330
   },
   {
     "id": "area68",
     "nev": "Homlokzat tisztítás, mosás",
     "leiras": "<strong>Ezek az árak 100m2 felett érvényesek.</strong>",
-    "munkadij": 1150,
-    "anyagdij": 150
+    "munkadij": 1270,
+    "anyagdij": 170
   },
   {
     "id": "area69",
     "nev": "Térkő tisztítás",
     "leiras": "Ezek az árak 100m2 felett érvényesek.",
-    "munkadij": 950,
-    "anyagdij": 150
+    "munkadij": 1050,
+    "anyagdij": 170
   },
   {
     "id": "area70",
     "nev": "Rozetták ragasztása, festése 40cm átmérőig",
     "leiras": "Rozetták ragasztása és festése 40cm átmérőig.",
-    "munkadij": 3000,
+    "munkadij": 3300,
     "anyagdij": 0
   },
   {
     "id": "area71",
     "nev": "Rozetták ragasztása, festése 70cm átmérőig",
     "leiras": "Rozetták ragasztása és festése 70cm átmérőig.",
-    "munkadij": 4500,
+    "munkadij": 4950,
     "anyagdij": 0
   },
   {
     "id": "area72",
     "nev": "Díszítő festés (foltos fal, egyszerűbb dekor festékek, antikolás stb...)",
     "leiras": "Dekor festés, például foltos fal, egyszerűbb dekor festékek, antikolás stb.",
-    "munkadij": 6000,
+    "munkadij": 6600,
     "anyagdij": 0
   },
   {
     "id": "area73",
     "nev": "Betonhatás dekorfal készítése",
     "leiras": "Betonhatású dekoratív fal kialakítása speciális technikákkal és anyagokkal.",
-    "munkadij": 12000,
-    "anyagdij": 2500
+    "munkadij": 13200,
+    "anyagdij": 2750
   },
   {
     "id": "area74",
     "nev": "Kapcsolók, konnektorok fedelének le és felszerelése",
     "leiras": "Kapcsolók és konnektorok fedelének szakszerű le- és visszaszerelése a festési munkálatok idejére.",
-    "munkadij": 300,
+    "munkadij": 330,
     "anyagdij": 0
   },
   {
     "id": "area75",
     "nev": "Radiátor le és felszerelése",
     "leiras": "Radiátorok szakszerű le- és visszaszerelése.",
-    "munkadij": 15000,
+    "munkadij": 16500,
     "anyagdij": 0
   },
   {
     "id": "area76",
     "nev": "Lámpa, falikar le és felszerelése",
     "leiras": "Lámpák és falikarok szakszerű le- és visszaszerelése.",
-    "munkadij": 2000,
+    "munkadij": 2200,
     "anyagdij": 0
   }
 ]
